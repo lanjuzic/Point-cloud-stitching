@@ -1,0 +1,11 @@
+﻿  shibie.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\vss\c++\shibie\shibie\shibie.cpp(585,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\vss\c++\shibie\shibie\shibie.cpp(700,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\vss\c++\shibie\shibie\shibie.cpp(1252,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 774 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  shibie.vcxproj -> D:\vss\c++\shibie\x64\Release\shibie.exe
